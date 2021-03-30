@@ -29,4 +29,4 @@ Curious about software engineering and the intersection of healthcare + tech.
 - Hobbies - Avid skier, scuba diver, and swimmer
 - Movies & TV - The Queen's Gambit, Big Little Lies, House of Cards, The Godfather Part 1 and 2, Black Panther
 - Books - The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid, America is Not the Heart by Elaine Castillo
-- Food - Pineapple on Pizza, Rocky Road ice cream, French fries with Ranch dressing, Toro sashimi
+- Food - Pineapple on Pizza, French fries with Ranch dressing, Toro sashimi, Kare-Kare

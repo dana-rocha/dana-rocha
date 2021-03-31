@@ -20,7 +20,7 @@ Curious about software engineering.
 
 ## 💬 Background
 - (2018) Graduated from Northeastern University with a B.S Biochemistry with the intention of going to medical school. Took an "Intro to Python" class and became more curious. 
-- (2018) Decided to pivot from the medical school route. Accepted into Northeastern's [M.S. Bioinformatics](https://cos.northeastern.edu/bioinformatics/) program. Initially wanted to combine tech + Biology. 
+- (2018) Decided to pivot from the medical school route. Accepted into Northeastern's M.S. Bioinformatics program. Initially wanted to combine tech + Biology. 
 - (2020) Completed an 8 month internship at Merck & Co. Graduated. The job hunt begins. 
 - (2021) The job hunt continues. Participated in my first hackathon, Pearl Hacks 2021! Joined Reskill American's first cohort!
 

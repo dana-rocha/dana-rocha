@@ -1,5 +1,4 @@
-## Hi, I'm Dana 👋
-A recent grad who's trying to find her way in the world. 
+## Hi there 👋
 <!--
 **dana-rocha/dana-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

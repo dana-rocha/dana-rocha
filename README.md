@@ -30,3 +30,5 @@ Curious about software engineering.
 - Food - Pineapple on Pizza, French fries with Ranch dressing, Kare-Kare, White Hot Chocolate from L.A Burdick
 
 [![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana-rocha&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dana-rocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

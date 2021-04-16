@@ -1,4 +1,6 @@
-## Hi I'm Dana 👋
+## Hi I'm Dana 👋  
+![](https://komarev.com/ghpvc/?username=dana-rocha&color=blue&style=flat-square)
+
 <!--
 **dana-rocha/dana-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -26,11 +26,6 @@ Curious about software engineering.
 - (2020) Completed an 8 month internship at Merck & Co. Graduated. The job hunt begins. 
 - (2021) The job hunt continues. Participated in my first hackathon, Pearl Hacks 2021! 
 
-## ♥️ Favorites
-- Hobbies - Avid skier, scuba diver, and swimmer
-- Movies & TV - The Queen's Gambit, Big Little Lies, House of Cards, The Godfather Part 1 and 2, Black Panther
-- Food - Pineapple on Pizza, French fries with Ranch dressing, Kare-Kare, White Hot Chocolate from L.A Burdick
-
 [![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana-rocha&include_all_commits=true&count_private=true&theme=cobalt&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dana-rocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

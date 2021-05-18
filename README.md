@@ -23,7 +23,7 @@ Curious about software engineering.
 ## 💬 Background
 - (2018) Graduated from Northeastern University with a B.S Biochemistry with the intention of going to medical school. Took an "Intro to Python" class during my senior year. 
 - (2018) Decided to pivot from the medical school route. Accepted into Northeastern's M.S. Bioinformatics program. Initially wanted to combine tech + Biology. 
-- (2020) Completed an 8 month Data Science/Computational Chemistry internship at Merck & Co. Graduated from my masters program. The job hunt begins. 
+- (2020) Completed an 8 month Data Science/Computational Chemistry internship at Merck & Co. Graduated from my masters program. The job hunt began. 
 - (2021) The job hunt continues. Participated in my first hackathon, Pearl Hacks 2021! 
 
 [![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana-rocha&include_all_commits=true&count_private=true&theme=cobalt&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)

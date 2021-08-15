@@ -1,4 +1,4 @@
-## Hi I'm Dana 👋  
+## Hi, I'm Dana! 👋  
 <!--![](https://komarev.com/ghpvc/?username=dana-rocha&color=blue&style=flat-square) -->
 
 <!--

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Currently
-Actively looking for full-time roles in Informatics or Data Analytics. Working on enhancing my technical skillset while applying to jobs and bootcamps. 
+Actively looking for full-time roles in Informatics or Data Analytics. I am also working on enhancing my technical skillset while applying to jobs and coding bootcamps. 
 Curious about software engineering. 
 
 ## 💬 Background

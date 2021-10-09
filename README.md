@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Currently
 Actively looking for full-time roles in Informatics or Data Analytics. I am also working on enhancing my technical skillset while applying to jobs and coding bootcamps. 
-Looking to transition to software engineering. 
+Looking to eventually transition to software engineering. 
 
 ## 💬 Background
 - (2018) Graduated from Northeastern University with a B.S Biochemistry with the intention of going to medical school. Took an "Intro to Python" class during my senior year. 

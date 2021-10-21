@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 Actively looking for full-time roles in Informatics or Data Analytics. I am also working on enhancing my technical skillset while on the job search.
 
 ## 💬 Background
-- (2018) Graduated from Northeastern University with a B.S Biochemistry with the intention of going to medical school. Took an "Intro to Python" class during my senior year. 
+- (2018) Graduated from Northeastern University with a B.S Biochemistry with the intention of going to medical school. 
 - (2018) Decided to pivot from the medical school route. Accepted into Northeastern's M.S. Bioinformatics program. 
-- (2020) Completed an 8 month Data Science/Computational Chemistry internship at Merck & Co. Graduated from my master's program.
+- (2020) Completed an 8 month Data Science/Computational Chemistry internship at Merck & Co. and graduated from my master's program.
 - (2021) Participated in my first hackathon, Pearl Hacks 2021 @ UNC Chapel Hill! 
 
 [![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana-rocha&include_all_commits=true&count_private=true&theme=cobalt&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)

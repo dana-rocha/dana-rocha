@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Currently
-Actively looking for full-time roles in Informatics or Data Analytics. I am also working on enhancing my technical skillset while on the job search.
+Actively looking for full-time roles in Informatics or Data Analytics. Also working on enhancing my technical skillset while job hunting.
 
 ## 💬 Background
 - (2018) Graduated from Northeastern University with a B.S Biochemistry with the intention of going to medical school. 

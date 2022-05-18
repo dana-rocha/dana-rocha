@@ -26,6 +26,6 @@ Actively looking for full-time roles in Informatics or Data Analytics. Also work
 - (2020) Completed an 8 month Data Science/Computational Chemistry internship at Merck & Co. and graduated from my master's program.
 - (2021) Participated in my first hackathon, Pearl Hacks 2021 @ UNC Chapel Hill! 
 -->
-[![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana-rocha&include_all_commits=true&count_private=true&theme=cobalt&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana-rocha&include_all_commits=true&count_private=true&theme=cobalt&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dana-rocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dana-rocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->

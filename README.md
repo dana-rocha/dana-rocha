@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## 🌱 Currently
-&#128218; I'm a student at Ada Developers Academy, learning full stack web development with Python, Flask, HTML, CSS, JavaScript, and React <br/>
+&#128218; I'm a student at Ada Developers Academy (Cohort 17) where I'm learning full stack web development with Python, SQL, Flask, HTML, CSS, JavaScript, and React <br/>
 &#128301; I'm currently learning TypeScript and Google Firebase
 
 <br/>

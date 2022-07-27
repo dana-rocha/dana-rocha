@@ -1,6 +1,6 @@
 ### Hi, I'm Dana! 👋  
 
-- ✨ Student at Ada Developers Academy (Cohort 17) where I'm learning full stack web development with Python, SQL, Flask, HTML, CSS, JavaScript, and React 
+- ✨ Student at Ada Developers Academy (Cohort 17) where I'm learning full stack web development 
 - 🌱 Currently learning TypeScript, Google Firebase, React
 
 <br/>

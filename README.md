@@ -1,7 +1,7 @@
 ### Hi, I'm Dana! 👋  
 
 - ✨ Student at Ada Developers Academy (Cohort 17) where I'm learning full stack web development 
-- 🌱 Currently learning TypeScript, Google Firebase, React
+- 🌱 Currently learning Google Firebase, React, and JavaScript
 
 <br/>
 

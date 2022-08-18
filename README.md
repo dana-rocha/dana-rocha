@@ -10,7 +10,7 @@ Let's Connect! <br/>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-![](https://komarev.com/ghpvc/?username=dana-rocha&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=dana-rocha&color=green) -->
 
 [![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dana-rocha&include_all_commits=true&count_private=true&theme=cobalt&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 

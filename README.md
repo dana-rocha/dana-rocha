@@ -1,8 +1,8 @@
 # Hi, I'm Dana! 👋  
 
 ✨ Student at Ada Developers Academy (Cohort 17 - Seattle 🐳)  <br/>
-🌱 Currently learning Google Firebase, React, and JavaScript <br/>
-⏩ Incoming intern @ Allen Institute for Neural Dynamics 
+🌱 Currently learning React and JavaScript <br/>
+⏩ SDE Intern @ Allen Institute for Neural Dynamics 
 
 <br/>
 

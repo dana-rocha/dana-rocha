@@ -12,7 +12,7 @@
 </div>	
 
 
-<h3 align="center">Let's Connect! </h3>
+<br/>
  <p align="center">
    <img src="https://custom-icon-badges.demolab.com/badge/-dbridgette.rocha@gmail.com-376f6c?style=for-the-badge&logo=mention&logoColor=white"/>
 <a href="https://www.linkedin.com/in/rochadana/" target="blank">

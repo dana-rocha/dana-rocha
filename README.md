@@ -1,7 +1,6 @@
 ## Hi, I'm Dana! 👋  
 
 👩‍💻 Analyst @ Allen Institute for Brain Science <br/>
-🌱 Currently learning React and TypeScript <br/>
 
 <br/>
 
